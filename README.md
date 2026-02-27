@@ -2,7 +2,6 @@
 
 A lightweight Python CLI trading bot for placing orders on Binance Futures Testnet (USDT-M).
 
-Built as part of a Python Developer intern assignment.
 
 ---
 
